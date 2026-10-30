@@ -1,0 +1,30 @@
+/* Estilo general de la página */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #FFF3D6;
+}
+
+/* Estilo de los títulos */
+h1 {
+    color:	#C8102E;
+    font-size: 35px;
+}
+
+/* Estilo de las imágenes */
+img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 15px;
+}
+
+/* Estilo de los enlaces */
+a {
+    color:#0077B6;
+    text-decoration: none;
+}
+
+/* Cambio de color al pasar el ratón */
+a:hover {
+    color: ##20A39E;
+    text-decoration: underline;
+}
